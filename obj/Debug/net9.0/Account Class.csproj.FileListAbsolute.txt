@@ -26,3 +26,4 @@ C:\Users\isher\OneDrive\Desktop\Capstone\Account Class\obj\Debug\net9.0\refint\A
 C:\Users\isher\OneDrive\Desktop\Capstone\Account Class\obj\Debug\net9.0\Account Class.pdb
 C:\Users\isher\OneDrive\Desktop\Capstone\Account Class\obj\Debug\net9.0\Account Class.genruntimeconfig.cache
 C:\Users\isher\OneDrive\Desktop\Capstone\Account Class\obj\Debug\net9.0\ref\Account Class.dll
+c:\Users\isher\OneDrive\Desktop\Capstone\Account Class\obj\Debug\net9.0\Account Class.sourcelink.json

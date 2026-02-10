@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic;
+
 public class Account
 {
     private float balance;
@@ -27,6 +29,7 @@ public class Account
     public void Show()
     {
         Console.WriteLine($"Owner: {owner}. Balance: ${balance}.");
+        Console.WriteLine("Yay!");
     }
 
 

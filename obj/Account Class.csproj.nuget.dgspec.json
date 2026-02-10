@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj": {}
+    "c:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj": {
+    "c:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj",
+        "projectUniqueName": "c:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj",
         "projectName": "Account Class",
-        "projectPath": "C:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj",
+        "projectPath": "c:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\Account Class.csproj",
         "packagesPath": "C:\\Users\\isher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\obj\\",
+        "outputPath": "c:\\Users\\isher\\OneDrive\\Desktop\\Capstone\\Account Class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isher\\AppData\\Roaming\\NuGet\\NuGet.Config"
