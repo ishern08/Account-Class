@@ -7,6 +7,7 @@ class Program
     static void Main(string[] args)
     {
         //did this for a commit
+        // simulated change from teammate on github
         Account acc1 = new Account("Susan", 100);
         Account acc2 = new Account("Bonnie", 100);
         acc1.Show();
