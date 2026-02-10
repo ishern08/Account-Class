@@ -30,6 +30,7 @@ public class Account
     {
         Console.WriteLine($"Owner: {owner}. Balance: ${balance}.");
         Console.WriteLine("Yay!");
+        Console.WriteLine(":)");
     }
 
 
