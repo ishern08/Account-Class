@@ -58,7 +58,8 @@ class Program
         Console.WriteLine(x);
         Console.WriteLine(y);
 
-        Console.WriteLine(" this writeline added on the MainChange branch");
+        Console.WriteLine("this writeline added on the MainChange branch");
+        Console.WriteLine("new write line for assignment");
 
         // in main
         /*int totalAssets = 1000;
