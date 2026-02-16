@@ -58,27 +58,34 @@ class Program
         Console.WriteLine(x);
         Console.WriteLine(y);
 
+        Console.WriteLine("this writeline added on the MainChange branch");
+        Console.WriteLine("new write line for assignment");
+
         // in main
-        int totalAssets = 1000;
+        /*int totalAssets = 1000;
         doIt(a1, totalAssets);
         Console.WriteLine("after doIt:");
         a1.Show();
         Console.WriteLine($"total assets is now {totalAssets}"); }
 
+      
 
         // another method in the file with main (part of the Main class)
         public static void doIt(Account a, int total)
         {
             a.Withdraw(a.Balance, 50);
             total--; 
-        }
+        }*/
+
+
+     
 
 
 
 
 
 
-
+    }
 
 }
 
